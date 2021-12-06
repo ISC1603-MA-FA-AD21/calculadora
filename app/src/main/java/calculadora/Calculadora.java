@@ -6,4 +6,7 @@ public class Calculadora {
         return x + y;
     }
     
+    public double multiplica(double x, double y) {
+        return 0;
+    }
 }
