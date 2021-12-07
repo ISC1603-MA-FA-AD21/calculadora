@@ -7,6 +7,6 @@ public class Calculadora {
     }
     
     public double multiplica(double x, double y) {
-        return 0;
+        return x * y;
     }
 }
